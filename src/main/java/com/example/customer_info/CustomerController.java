@@ -16,7 +16,7 @@ import com.example.customer_info.model.Customer;
 import com.example.customer_info.repositories.CustomerRepository;
 
 @RestController
-@RequestMapping("/Customer")
+@RequestMapping("/StudentInfo")
 public class CustomerController {
 
 	@Autowired
